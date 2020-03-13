@@ -1,0 +1,30 @@
+name,school,conference,games_played,rec_col,rec_yds_col,ypr_col,rec_td_col,rush_attempts,rush_yds,ypc,rush_td,team,age,position,games,games_started,targets,rec_nfl,catch%,worth,rec_yds_nfl,ypr_nfl,rec_td_nfl,first_downs,longest_rec,yards_per_target,rec_per_game,yards_per_game,fumbles
+Damion Ratley,Texas A&M,SEC,12,30,694,23.1,6,0,0,,0,CLE,23,wr,13,3,20,13,65.00%,0,144,11.1,0,5,27,7.2,1,11.1,0
+James Washington,Oklahoma State,Big 12,13,74,1549,20.9,13,3,12,4,1,PIT,22,wr,14,6,38,16,42.10%,0,217,13.6,1,11,47,5.7,1.1,15.5,0
+Tre'Quan Smith,UCF,American,13,59,1171,19.8,13,5,23,4.6,1,NOR,22,wr,15,7,44,28,63.60%,1,427,15.3,5,25,62,9.7,1.9,28.5,0
+Marcell Ateman,Oklahoma State,Big 12,13,59,1156,19.6,8,0,0,,0,OAK,24,wr,7,6,31,15,48.40%,0,154,10.3,1,7,32,5,2.1,22,0
+J'Mon Moore,Missouri,SEC,13,65,1082,16.6,10,0,0,,0,GNB,23,wr,12,0,3,2,66.70%,0,15,7.5,0,1,10,5,0.2,1.3,1
+Marquez Valdes-Scantling,South Florida,American,12,53,879,16.6,6,8,108,13.5,1,GNB,24,WR,16,10,73,38,52.10%,1,581,15.3,2,23,60,8,2.4,36.3,0
+DaeSean Hamilton,Penn State,Big Ten,13,53,857,16.2,9,1,2,2,0,DEN,23,wr,14,5,45,30,66.70%,0,243,8.1,2,16,24,5.4,2.1,17.4,0
+Courtland Sutton,SMU,American,13,68,1085,16,12,1,2,2,1,DEN,23,WR,16,9,84,42,50.00%,1,704,16.8,4,30,42,8.4,2.6,44,0
+Javon Wims,Georgia,SEC,14,45,720,16,7,0,0,,0,CHI,24,wr,4,0,5,4,80.00%,0,32,8,0,2,16,6.4,1,8,0
+Equanimeous St. Brown,Notre Dame,Ind,12,33,515,15.6,4,0,0,,0,GNB,22,wr,12,7,36,21,58.30%,0,328,15.6,0,13,54,9.1,1.8,27.3,0
+Keke Coutee,Texas Tech,Big 12,13,93,1429,15.4,10,5,15,3,0,HOU,21,wr,6,2,41,28,68.30%,0,287,10.3,1,19,40,7,4.7,47.8,0
+Calvin Ridley,Alabama,SEC,14,63,967,15.3,5,2,17,8.5,0,ATL,24,wr,16,5,92,64,69.60%,1,821,12.8,10,39,75,8.9,4,51.3,2
+Anthony Miller,Memphis,American,13,96,1462,15.2,18,10,25,2.5,0,CHI,24,wr,15,4,54,33,61.10%,1,423,12.8,7,21,55,7.8,2.2,28.2,1
+Keith Kirkwood,Temple,American,12,45,671,14.9,7,0,0,,0,NOR,25,wr,8,1,21,13,61.90%,0,209,16.1,2,11,42,10,1.6,26.1,0
+Chad Beebe,Northern Illinois,MAC,9,28,417,14.9,1,1,-1,-1,0,MIN,24,wr,3,0,4,4,100.00%,0,39,9.8,0,3,18,9.8,1.3,13,0
+Trent Sherfield,Vanderbilt,SEC,12,50,729,14.6,5,8,92,11.5,1,ARI,22,wr,13,2,28,19,67.90%,0,210,11.1,1,11,21,7.5,1.5,16.2,0
+Michael Gallup,Colorado State,MWC,13,100,1418,14.2,7,0,0,,0,DAL,22,WR,16,8,68,33,48.50%,1,507,15.4,2,26,49,7.5,2.1,31.7,0
+Auden Tate,Florida State,ACC,12,40,548,13.7,10,0,0,,0,CIN,21,wr,7,0,12,4,33.30%,0,35,8.8,0,2,15,2.9,0.6,5,0
+Cam Phillips,Virginia Tech,ACC,12,71,964,13.6,7,1,10,10,0,BUF,23,wr,2,0,1,1,100.00%,0,9,9,0,0,9,9,0.5,4.5,0
+Allen Lazard,Iowa State,Big 12,13,71,941,13.3,10,0,0,,0,GNB,23,wr,1,0,1,1,100.00%,0,7,7,0,0,7,7,1,7,0
+Deontay Burnett,USC,Pac-12,14,86,1114,13,9,2,-2,-1,0,NYJ,21,wr,5,1,15,10,66.70%,0,143,14.3,0,7,29,9.5,2,28.6,0
+D.J. Moore,Maryland,Big Ten,12,80,1033,12.9,8,5,61,12.2,1,CAR,21,WR,16,10,82,55,67.10%,1,788,14.3,2,33,82,9.6,3.4,49.3,4
+Christian Kirk,Texas A&M,SEC,13,71,919,12.9,10,4,31,7.8,0,ARI,22,wr,12,7,68,43,63.20%,1,590,13.7,3,21,75,8.7,3.6,49.2,0
+Dante Pettis,Washington,Pac-12,13,63,761,12.1,7,3,50,16.7,0,SFO,23,wr,12,7,45,27,60.00%,1,467,17.3,5,19,75,10.4,2.3,38.9,2
+Trey Quinn,SMU,American,13,114,1236,10.8,13,1,0,0,0,WAS,23,wr,3,2,10,9,90.00%,0,75,8.3,1,5,15,7.5,3,25,0
+Malik Turner,Illinois,Big Ten,10,31,326,10.5,0,0,0,,0,SEA,22,wr,6,0,3,2,66.70%,0,20,10,0,1,19,6.7,0.3,3.3,0
+Brandon Powell,Florida,SEC,11,42,406,9.7,3,4,15,3.8,1,DET,22,wr,6,1,17,11,64.70%,0,129,11.7,0,6,41,7.6,1.8,21.5,0
+Richie James,Middle Tennessee State,CUSA,5,31,290,9.4,3,10,57,5.7,0,SFO,23,wr,13,2,14,9,64.30%,0,130,14.4,1,4,53,9.3,0.7,10,2
+Cameron Batson,Texas Tech,Big 12,13,59,487,8.3,5,6,38,6.3,0,TEN,23,wr,11,2,11,8,72.70%,0,82,10.3,0,5,26,7.5,0.7,7.5,1
